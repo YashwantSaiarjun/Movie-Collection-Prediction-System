@@ -22,3 +22,6 @@
   | 16 |  Num_multiplex        
   | 17 |  Collection       
  
+Model used : Decision tree
+R2 score : 0.64
+Adj R2 score (Accuracy) : 0.63
